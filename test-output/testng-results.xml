@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57032" started-at="2018-09-21T12:00:06Z" finished-at="2018-09-21T12:01:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57032" started-at="2018-09-21T12:00:06Z" finished-at="2018-09-21T12:01:03Z">
+      <class name="com.billing.qa.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.billing.qa.testCases.LoginPageTest@4667ae56]" name="setUp" is-config="true" duration-ms="6636" started-at="2018-09-21T17:30:30Z" finished-at="2018-09-21T17:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginTitle()[pri:1, instance:com.billing.qa.testCases.LoginPageTest@4667ae56]" name="validateLoginTitle" duration-ms="20" started-at="2018-09-21T17:30:36Z" finished-at="2018-09-21T17:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTitle -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.billing.qa.testCases.LoginPageTest@4667ae56]" name="shutDown" is-config="true" duration-ms="870" started-at="2018-09-21T17:30:36Z" finished-at="2018-09-21T17:30:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.billing.qa.testCases.LoginPageTest@4667ae56]" name="setUp" is-config="true" duration-ms="7845" started-at="2018-09-21T17:30:37Z" finished-at="2018-09-21T17:30:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogin()[pri:2, instance:com.billing.qa.testCases.LoginPageTest@4667ae56]" name="validateLogin" duration-ms="17423" started-at="2018-09-21T17:30:45Z" finished-at="2018-09-21T17:31:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.billing.qa.testCases.LoginPageTest@4667ae56]" name="shutDown" is-config="true" duration-ms="905" started-at="2018-09-21T17:31:02Z" finished-at="2018-09-21T17:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- com.billing.qa.testCases.LoginPageTest -->
+      <class name="com.billing.qa.testCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.billing.qa.testCases.HomePageTest@1a968a59]" name="setUp" is-config="true" duration-ms="22303" started-at="2018-09-21T17:30:06Z" finished-at="2018-09-21T17:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateHomeTitle()[pri:1, instance:com.billing.qa.testCases.HomePageTest@1a968a59]" name="validateHomeTitle" duration-ms="7" started-at="2018-09-21T17:30:29Z" finished-at="2018-09-21T17:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeTitle -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.billing.qa.testCases.HomePageTest@1a968a59]" name="shutDown" is-config="true" duration-ms="985" started-at="2018-09-21T17:30:29Z" finished-at="2018-09-21T17:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- com.billing.qa.testCases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

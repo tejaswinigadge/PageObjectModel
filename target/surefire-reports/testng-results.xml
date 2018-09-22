@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="33107" started-at="2018-09-22T04:58:53Z" finished-at="2018-09-22T04:59:26Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="33107" started-at="2018-09-22T04:58:53Z" finished-at="2018-09-22T04:59:26Z">
+      <class name="com.billing.qa.testCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.billing.qa.testCases.HomePageTest@3567135c]" name="setUp" is-config="true" duration-ms="7588" started-at="2018-09-22T10:28:53Z" finished-at="2018-09-22T10:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateHomeTitle()[pri:1, instance:com.billing.qa.testCases.HomePageTest@3567135c]" name="validateHomeTitle" duration-ms="7327" started-at="2018-09-22T10:29:01Z" finished-at="2018-09-22T10:29:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeTitle -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.billing.qa.testCases.HomePageTest@3567135c]" name="shutDown" is-config="true" duration-ms="1166" started-at="2018-09-22T10:29:08Z" finished-at="2018-09-22T10:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- com.billing.qa.testCases.HomePageTest -->
+      <class name="com.billing.qa.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.billing.qa.testCases.LoginPageTest@327471b5]" name="setUp" is-config="true" duration-ms="5847" started-at="2018-09-22T10:29:09Z" finished-at="2018-09-22T10:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginTitle()[pri:1, instance:com.billing.qa.testCases.LoginPageTest@327471b5]" name="validateLoginTitle" duration-ms="9" started-at="2018-09-22T10:29:15Z" finished-at="2018-09-22T10:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTitle -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.billing.qa.testCases.LoginPageTest@327471b5]" name="shutDown" is-config="true" duration-ms="848" started-at="2018-09-22T10:29:15Z" finished-at="2018-09-22T10:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.billing.qa.testCases.LoginPageTest@327471b5]" name="setUp" is-config="true" duration-ms="5852" started-at="2018-09-22T10:29:16Z" finished-at="2018-09-22T10:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogin()[pri:2, instance:com.billing.qa.testCases.LoginPageTest@327471b5]" name="validateLogin" duration-ms="3519" started-at="2018-09-22T10:29:22Z" finished-at="2018-09-22T10:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.billing.qa.testCases.LoginPageTest@327471b5]" name="shutDown" is-config="true" duration-ms="920" started-at="2018-09-22T10:29:25Z" finished-at="2018-09-22T10:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- com.billing.qa.testCases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

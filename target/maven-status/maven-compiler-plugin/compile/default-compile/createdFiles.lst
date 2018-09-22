@@ -1,0 +1,6 @@
+com\billing\qa\Base\TestBase.class
+com\billing\qa\Pages\HomePage.class
+com\billing\qa\Pages\LoginPage.class
+com\billing\qa\Utils\TestUtils.class
+com\billing\Extentreport\ExtentReportNG.class
+com\billing\qa\Pages\Customer.class
